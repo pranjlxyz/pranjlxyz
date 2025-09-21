@@ -35,7 +35,7 @@
   <a href="https://www.instagram.com/pranjlxyz/?utm_source=ig_web_button_share_sheet" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:wottmi@gmail.com" target="_blank">
+  <a href="mailto:pranjlxyz@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/pranjlxyz" target="_blank">
