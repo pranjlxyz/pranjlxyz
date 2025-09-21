@@ -35,7 +35,7 @@
   <a href="https://www.instagram.com/pranjlxyz/?utm_source=ig_web_button_share_sheet" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
-  <a href="[https://www.discord.com/pranjlxyz](https://discord.com/channels/@pranjlxyz/1383063336677015585)" target="_blank">
+  <a href="https://discord.com/user/@pranjlxyz/1383063336677015585" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   </a>
   <a href="pranjlxyz@gmail.com" target="_blank">
